@@ -1,0 +1,113 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddDrivers",
+            "request": "launch",
+            "mainClass": "AddDrivers",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "AddEmployee",
+            "request": "launch",
+            "mainClass": "AddEmployee",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "AddRoom",
+            "request": "launch",
+            "mainClass": "AddRoom",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "CheckOut",
+            "request": "launch",
+            "mainClass": "CheckOut",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "CustomerInfo",
+            "request": "launch",
+            "mainClass": "CustomerInfo",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "Dashboard",
+            "request": "launch",
+            "mainClass": "Dashboard",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "Department",
+            "request": "launch",
+            "mainClass": "Department",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeInfo",
+            "request": "launch",
+            "mainClass": "EmployeeInfo",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "ManagerInfo",
+            "request": "launch",
+            "mainClass": "ManagerInfo",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "NewCustomer",
+            "request": "launch",
+            "mainClass": "NewCustomer",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "Pickup",
+            "request": "launch",
+            "mainClass": "Pickup",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "Reception",
+            "request": "launch",
+            "mainClass": "Reception",
+            "projectName": "project_4830a6e0"
+        },
+        {
+            "type": "java",
+            "name": "Room",
+            "request": "launch",
+            "mainClass": "Room",
+            "projectName": "project_4830a6e0"
+        }
+    ]
+}
